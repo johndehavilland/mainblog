@@ -1,0 +1,26 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Node modules (if using npm/yarn for assets)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# Ignore local config overrides
+config*.toml.local

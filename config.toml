@@ -1,0 +1,14 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "John de Havilland"
+theme = ["PaperMod"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  homeInfoMode = "auto"
+  defaultTheme = "auto"
+  ShowReadingTime = true
