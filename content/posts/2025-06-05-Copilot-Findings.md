@@ -26,10 +26,12 @@ The report highlights some areas that were a bit of a challenge, none really sur
 
 **Tool Evolution**: Mid-experiment updates (e.g., Copilot Agents) were not fully evaluated but generated strong interest.
 
+## My Thoughts
+
 I thought this was interesting to see Teams and Word had the highest adoption of M365 Copilot. Teams makes a lot of sense since users probably spend a large portion of their time there.
 
 {{< figure src="/images/copilot_apps.png" >}}
 
-Overall, the findings seem to suggest that AI had overall strong impact here, especially as adoption grew. I like that the UK Government is leaning strongly into AI and their [AI playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government) is well worth a read.
+Overall, the findings seem to suggest that AI had strong impact here, especially as adoption grew. I like that the UK Government is leaning strongly into AI and their [AI playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government) is well worth a read.
 
 This [recent article](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/) in *New Scientist* highlights how the UK tech secretary uses ChatGPT through a Freedom of Information request to see his prompts. I, for one, am glad to see someone who is responsible for leading the charge on technology is actively engaging with it, even if some of the prompts are not that ground-breaking. We are still at the frontier of this and we need to push the boundaries in many capacities.
