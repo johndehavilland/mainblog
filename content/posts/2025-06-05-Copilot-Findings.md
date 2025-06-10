@@ -16,7 +16,7 @@ From a positive persective, the key findings are as follows:
 
 **Positive Sentiment**: 82% of users did not want to return to pre-Copilot workflows. Satisfaction and recommendation scores were 7.7 and 8.2 out of 10, respectively.
 
-The report highlights some areas that were a bit of a challenge, none really surprising:
+The report highlights some areas that were a bit of a challenge, none really surprising and with some focused work could be resolved:
 
 **Complex Tasks**: Copilot struggled with nuanced, context-heavy, or sensitive tasks (e.g., policy analysis, grievance handling).
 
@@ -28,7 +28,9 @@ The report highlights some areas that were a bit of a challenge, none really sur
 
 ## My Thoughts
 
-So generally, a lot of improvement and positivity from its use which is pretty cool to see with participants saving 26 minutes per day on average and overall 82% saying they would not want to return to a pre-Copilot world. From the results, it seems content creation, especially first drafts helped a lot. Interestingly, there was some retience among some groups on the appropriateness of using Copilot. I think this speaks to broader AI adoption challenges and hesitation to lean into new things right away without clarity on the guardrails. I thought it was interesting to note that senior civil servants saw the least benefits, which suggests perhaps that AI is the tide that raises all ships and also perhaps those more senior had less time to get engaged with newer tech or even perhaps less inclined to adapt to using AI in work they have been doing for a long time already - change is hard.
+So generally, a lot of improvement and positivity from its use which is pretty cool to see with participants saving significant time, roughly freeing up at least 2 weeks worth of time which could be used to focus on other tasks. From the results, it seems content creation, especially first drafts helped a lot. Interestingly, there was some retience among some groups on the appropriateness of using Copilot. I think this speaks to broader AI adoption challenges and hesitation to lean into new things right away without clarity on the guardrails. I thought it was interesting to note that senior civil servants saw the least benefits, which suggests perhaps that AI is the tide that raises all ships and also perhaps those more senior had less time to get engaged with newer tech or even perhaps less inclined to adapt to using AI in work they have been doing for a long time already - change is hard.
+
+In terms of challenges, most could be resolved with better training, better change management and longer adoption time. With certain tasks, this could imply some additional modifications are needed perhaps and could benefit from more curated datasets, task specific tooling and/or task specific agents.
 
 It was interesting to see Teams and Word had the highest adoption of M365 Copilot. Teams makes a lot of sense since users probably spend a large portion of their time there.
 
