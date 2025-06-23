@@ -5,7 +5,7 @@ date: '2025-06-16'
 draft: 'false'
 ---
 
-Model-Context-Protocol, or MCP as it's more commonly referred to, came about in November 2024 when Anthropic introduced it to the world via their blog. But what is it really, why do we need it and how to get started?
+Model-Context-Protocol, or MCP as it's more commonly referred to, came about in November 2024 when Anthropic [introduced](https://www.anthropic.com/news/model-context-protocol) it to the world. But what is it really, why do we need it and how to get started?
 
 ## What is it?
 In its name, there are 3 elements: 
@@ -36,7 +36,7 @@ So instead of the robot learning how to drive every kind of vehicle or talk to e
 
 ## Why do we need it?
 
-So, imagine this: I want to pass in a prompt to my LLM and sometimes I want to ask it what the weather is going to be today. When I ask, it is not going to know since its training data does not include today's data. So relying on a pure LLM wouldn't work. Much better would be for the LLM to understand the intent of my question and have the ability to go call a weather api to get the latest weather. In order to do this, you could write a layer over a weather api to connect it to your LLM and make this available as a tool for my LLM to use. Now if I also wanted it to tell me the latest news headlines, I would have build a connector between a news api and the LLM. This is all well and good but this is a lot of different wrappers you would need to build for all the tools you would potentially want your LLM to have access to. 
+Let's say I want to ask an LLM what the weather is going to be today. When I ask, it is not going to know since its training data does not include today's data. So relying on a pure LLM wouldn't work. Much better would be for the LLM to understand the intent of my question and have the ability to go call a weather api to get the latest weather. In order to do this, you could write a layer over a weather api to connect it to your LLM and make this available as a tool for my LLM to use. Now if I also wanted it to tell me the latest news headlines, I would have build a connector between a news api and the LLM. This is all well and good but this is a lot of different wrappers you would need to build for all the tools you would potentially want your LLM to have access to. 
 
 MCP solves this problem. Instead of you having to create your own wrappers etc, each tool/api provider creates that connector for their tool/api and all you need to do is connect your LLM to an MCP server without having to know how to connect to each of these services and they all follow a standard way of connecting to make it super simple for your LLM to use these tools.
 
