@@ -1,5 +1,5 @@
 ---
-title: From Prompts to Agents: Understanding the 4 Levels of AI Workflows
+title: From Prompts to Agents - Understanding the 4 Levels of AI Workflows
 tags: 
 date: '2025-07-01'
 draft: 'false'
