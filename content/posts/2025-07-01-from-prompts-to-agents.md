@@ -50,7 +50,7 @@ This takes the standalone LLM and augments it with external knowledge via a sear
 Here we are getting more sophisticated workflows where a chain of tools or models are orchestrated. The tools can include APIs, code execution and decision trees etc and the LLM acts as a controller for different steps and services. Often you are looking at something like LangChain or Semantic Kernel to build this
 
 ### Example Use Cases
-- Document processing (OCR → parse → summarize)
+- Document processing (OCR > parse > summarize)
 - Multi-step customer interactions
 - Lead qualification bot
 - Onboarding assistant
@@ -102,7 +102,7 @@ Here are **five high-impact example use cases** that scale clearly across four s
 |-------|-------------|
 | 🧠 **Standalone LLM** | “My headphones won’t connect.” > Generic troubleshooting tips from LLM training. |
 | 📚 **RAG** | Fetches the exact support article from your product documentation. |
-| 🧰 **Workflow** | Diagnoses issue by walking through decision tree > Asks for serial number → Checks warranty API. |
+| 🧰 **Workflow** | Diagnoses issue by walking through decision tree > Asks for serial number > Checks warranty API. |
 | 🤖 **Agent** | Agent verifies issue, books repair appointment, initiates a return label, and follows up via email if unresolved. |
 
 ---
@@ -135,7 +135,7 @@ Here are **five high-impact example use cases** that scale clearly across four s
 |-------|-------------|
 | 🧠 **Standalone LLM** | “Plan a 3-day trip to Paris.” → Outputs a generic itinerary. |
 | 📚 **RAG** | Pulls hotel, weather, and attraction info from external sources. |
-| 🧰 **Workflow** | Chooses travel style >  Finds best dates > Books hotel and flight via APIs → Outputs itinerary. |
+| 🧰 **Workflow** | Chooses travel style >  Finds best dates > Books hotel and flight via APIs > Outputs itinerary. |
 | 🤖 **Agent** | Monitors weather, delays, or closures > Rebooks travel if needed > Sends real-time notifications > Optimizes entire trip on the fly. |
 
 ---
