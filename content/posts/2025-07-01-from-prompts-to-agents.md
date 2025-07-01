@@ -1,11 +1,11 @@
 ---
-title: From Prompts to Agents - Understanding the 4 Levels of AI Workflows
+title: From Prompts to Agents - Understanding the 4 Levels of AI Patterns
 tags: 
 date: '2025-07-01'
 draft: 'false'
 ---
 
-AI, Agents, Workflows, LLMS - it all gets a bit confusing in today's AI landscape around what all these mean and when to use which for what. I want to break this down in a fairly simple framework to think about 4 distinct ways of using LLMs that get increasing more complex. 
+AI, Agents, Workflows, LLMs - it all gets a bit confusing in today's AI landscape around what all these mean. I want to break this down into a fairly simple framework to think about 4 distinct ways of using LLMs that get increasingly more complex. 
 
 ## 1. Standalone LLM (Prompt in, Information Out)
 
@@ -65,7 +65,7 @@ Here we are getting more sophisticated workflows where a chain of tools or model
 
 {{< figure src="/images/2025-07-01-llm-agent.png" caption="AI Agents" >}}
 
-This is the most complicated of the workflows. Here you give the LLM a goal and it builds a plan, executes against that plan and achieves the goal. It often includes feedback loops, breaks the goal and plan down into tasks as well as figuring out which tools to access to help achieve the goal. The big difference between this and AI workflows is that AI agents work independently and define the workflows to execute where as with AI Workflow you will have predefined the workflow and steps to execute.
+This is the most complicated of the workflows. Here you give the LLM a goal and it builds a plan, executes against that plan and achieves the goal. It often includes feedback loops, breaks the goal and plan down into tasks as well as figuring out which tools to access to help achieve the goal. The big difference between this and AI workflows is that AI agents work independently and define the workflows to execute where as with AI Workflow you will have predefined the workflow and steps to execute. This scenario provides a greater degree of autonomy and, in more complex agent scenarios, ai agents can evaluate output from different steps and redo them as appropriate.
 
 ### Example Use Cases
 - Customer service agents that escalate when needed
@@ -81,7 +81,7 @@ This is the most complicated of the workflows. Here you give the LLM a goal and 
 
 Each level adds complexity and capability. Not every task needs an agent, sometimes a simple prompt or RAG is enough so choose the right level based on your use case, perhaps even starting simpler and getting more complex as your needs grow.
 
-Here are **five high-impact example use cases** that scale clearly across four stages of AI workflows: **Standalone LLM → RAG → Workflow → Agent**.
+Here are **five high-impact example use cases** that scale clearly across four stages of AI workflows: **Standalone LLM > RAG > Workflow > Agent**.
 
 ---
 
@@ -89,9 +89,9 @@ Here are **five high-impact example use cases** that scale clearly across four s
 
 | Stage | Description |
 |-------|-------------|
-| 🧠 **Standalone LLM** | “Explain what a Roth IRA is.” → LLM responds with generic financial explanation. |
+| 🧠 **Standalone LLM** | “Explain what a Roth IRA is.” > LLM responds with generic financial explanation. |
 | 📚 **RAG** | Pulls from latest IRS guidelines or your bank’s offerings to give accurate, personalized info. |
-| 🧰 **Workflow** | Classifies user type (e.g., age, goals) → Pulls financial products → Suggests 3 best options with trade-offs. |
+| 🧰 **Workflow** | Classifies user type (e.g., age, goals) > Pulls financial products → Suggests 3 best options with trade-offs. |
 | 🤖 **Agent** | Agent tracks long-term financial goals, monitors market trends, recommends adjustments over time, and integrates with your bank accounts. |
 
 ---
@@ -100,9 +100,9 @@ Here are **five high-impact example use cases** that scale clearly across four s
 
 | Stage | Description |
 |-------|-------------|
-| 🧠 **Standalone LLM** | “My headphones won’t connect.” → Generic troubleshooting tips from LLM training. |
+| 🧠 **Standalone LLM** | “My headphones won’t connect.” > Generic troubleshooting tips from LLM training. |
 | 📚 **RAG** | Fetches the exact support article from your product documentation. |
-| 🧰 **Workflow** | Diagnoses issue by walking through decision tree → Asks for serial number → Checks warranty API. |
+| 🧰 **Workflow** | Diagnoses issue by walking through decision tree > Asks for serial number → Checks warranty API. |
 | 🤖 **Agent** | Agent verifies issue, books repair appointment, initiates a return label, and follows up via email if unresolved. |
 
 ---
@@ -111,9 +111,9 @@ Here are **five high-impact example use cases** that scale clearly across four s
 
 | Stage | Description |
 |-------|-------------|
-| 🧠 **Standalone LLM** | “Write a blog post about productivity tips.” → Generic, SEO-ish listicle. |
+| 🧠 **Standalone LLM** | “Write a blog post about productivity tips.” > Generic, SEO-ish listicle. |
 | 📚 **RAG** | Pulls in research or trends from your site’s analytics and industry news to customize the post. |
-| 🧰 **Workflow** | Plan campaign → Generate blog + social posts → Schedule with calendar API. |
+| 🧰 **Workflow** | Plan campaign > Generate blog + social posts > Schedule with calendar API. |
 | 🤖 **Agent** | Runs A/B tests, analyzes engagement, re-optimizes future posts, and suggests campaign pivots autonomously. |
 
 ---
@@ -124,7 +124,7 @@ Here are **five high-impact example use cases** that scale clearly across four s
 |-------|-------------|
 | 🧠 **Standalone LLM** | “What does a sore throat mean?” → General medical advice. |
 | 📚 **RAG** | Pulls from medical knowledge base like Mayo Clinic, or your hospital’s triage guidelines. |
-| 🧰 **Workflow** | Intake symptoms → Ask about history → Route to appropriate care path (e.g., telemedicine vs. urgent care). |
+| 🧰 **Workflow** | Intake symptoms > Ask about history > Route to appropriate care path (e.g., telemedicine vs. urgent care). |
 | 🤖 **Agent** | Tracks patient status over time, updates charts via EHR APIs, books follow-up, and reminds patient to take meds. |
 
 ---
@@ -135,8 +135,8 @@ Here are **five high-impact example use cases** that scale clearly across four s
 |-------|-------------|
 | 🧠 **Standalone LLM** | “Plan a 3-day trip to Paris.” → Outputs a generic itinerary. |
 | 📚 **RAG** | Pulls hotel, weather, and attraction info from external sources. |
-| 🧰 **Workflow** | Chooses travel style → Finds best dates → Books hotel and flight via APIs → Outputs itinerary. |
-| 🤖 **Agent** | Monitors weather, delays, or closures → Rebooks travel if needed → Sends real-time notifications → Optimizes entire trip on the fly. |
+| 🧰 **Workflow** | Chooses travel style >  Finds best dates > Books hotel and flight via APIs → Outputs itinerary. |
+| 🤖 **Agent** | Monitors weather, delays, or closures > Rebooks travel if needed > Sends real-time notifications > Optimizes entire trip on the fly. |
 
 ---
 
