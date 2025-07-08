@@ -1,5 +1,5 @@
 ---
-title: Rewriting Teamwork\: How AI is Reshaping Collaboration
+title: Rewriting Teamwork - How AI is Reshaping Collaboration
 tags: 
 date: '2025-07-07'
 draft: 'false'
