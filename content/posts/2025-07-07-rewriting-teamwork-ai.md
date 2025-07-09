@@ -1,4 +1,4 @@
----
+0---
 title: Rewriting Teamwork - How AI is Reshaping Collaboration
 tags: 
 date: '2025-07-07'
@@ -57,4 +57,6 @@ Some of this will be good old change management but some will be pushing into ne
 
 This could also bring other challenges to the mix. As more AI is used, do humans start to become over-reliant on AI, leading to skill atrophy? If I don't need interns anymore because AI does the work of 10 interns, where do interns go to learn valuable early work skills? Do those early work skills change?
 
-Similarly, as [this article](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/) in the Washington Post recently highlighted, where more folks were skipping meetings and sending AI notetakers resulting in AI outnumbering humans in meetings. If we are all delegating to AI then are we missing things from the human connection that is so important to move humanity forward? How do we strike the right balance?
+[This article](https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/) in the Washington Post recently highlighted, where more folks were skipping meetings and sending AI notetakers resulting in AI outnumbering humans in meetings. If we are all delegating to AI then are we missing things from the human connection that is so important to move humanity forward? How do we strike the right balance?
+
+Lots to think about and we are just at the beginning here.
