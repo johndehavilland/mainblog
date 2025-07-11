@@ -7,7 +7,9 @@ draft: 'false'
 
 AI is going to fundamentally change the fabric of our society. Dr. Eric Schmidt [suggests](https://www.youtube.com/watch?v=L5jhEYofpaQ) that within a year the vast majority of programmers will be replaced by AI programmers. Satya Nadella shared that Microsoft engineers are using AI to help write software (up to 20-30%) in a [recent chat](https://www.llama.com/resources/videos/mark-zuckerberg-and-satya-nadella/) with Mark Zuckerburg. Even DARPA is creating exploratory [models of Human-AI teams](https://www.darpa.mil/research/programs/exploratory-models-of-human-ai-teams) to understand how Humans+AI will work together.
 
-> AI is forcing us to reflect on the work we do and ask ourselves the question of whether it has value or not.
+{${< quote >}}
+AI is forcing us to reflect on the work we do and ask ourselves the question of whether it has value or not.
+{${< /quote >}}
 
 Taken to the extreme, folks are exploring using AI to build software end to end from scratch. A recent example I [read](https://outervationai.substack.com/p/building-a-100-llm-written-standards) was from Jonathan Barned who used the robust and detailed http 2.0 spec to get a LLM to build a web server from scratch. Super compelling to read about, and implies that, with a detailed enough specification and validation tools, AI can write software end to end. This opens a glimpse into the evolution of roles where humans can define the specs and build the validation requirements to give AI the right guardrails, accelerating desired outcomes.
 
