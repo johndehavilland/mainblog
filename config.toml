@@ -2,6 +2,7 @@ baseURL = "https://www.johndehavilland.com"
 languageCode = "en-us"
 title = "John de Havilland"
 theme = ["PaperMod"]
+googleAnalytics = "G-SC1FD2HQ9G"
 
 [markup]
   [markup.goldmark]
