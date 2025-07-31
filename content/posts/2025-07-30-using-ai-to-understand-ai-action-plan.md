@@ -1,11 +1,11 @@
 ---
-title: Using AI to Understand America's AI Action Plan
+title: Beyond Summarizatio - Using AI to Deepen Understanding
 tags: 
 date: '2025-07-31'
 draft: 'false'
 ---
 
-America's AI Action Plan was unveiled earlier this month. It focuses on 3 core pillars: 
+Everyone’s talking about AI transforming how we work but how often do we actually use it to think better? America's AI Action Plan was unveiled earlier this month. It focuses on 3 core pillars: 
 * Accelerate AI Innovation
 * Build American AI Infrastructure
 * Lead in International AI Diplomacy and Security. 
@@ -45,5 +45,4 @@ Finally, I have Copilot help me think through what challenges to aspects of this
 
 {{< figure src="/images/devil-adv.png" >}}
 
-So, as you can see, nothing ground-breaking but using AI here as a companion to help enhance my understanding of a lengthy doc without me having to do a lot of heavy lifting.
-
+So, as you can see, nothing ground-breaking but using AI here as a companion to help enhance my understanding of a lengthy doc without me having to do a lot of heavy lifting. The real power of AI isn’t just in automation, it’s in amplification. It helps us think deeper, faster, and more strategically.
