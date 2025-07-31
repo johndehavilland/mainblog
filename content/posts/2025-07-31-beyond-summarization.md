@@ -1,5 +1,5 @@
 ---
-title: Beyond Summarizatio - Using AI to Deepen Understanding
+title: Beyond Summarization - Using AI to Deepen Understanding
 tags: 
 date: '2025-07-31'
 draft: 'false'
