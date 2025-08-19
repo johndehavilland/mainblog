@@ -39,8 +39,8 @@ Its a next word prediction engine, based on all the sentences it has ever seen. 
 
 > 1 + 1 = _
 
-Now, it doesn't add 1 to 1 to get 2. Essentially, it says everytime I see 1 + 1 = then the next in sequence is 2 90% of the time.
+It doesn't add 1 to 1 to get 2. Essentially, it says everytime I see ```1 + 1 =``` then the next thing typically is 2, 90% of the time.
 
-Now, this is a super oversimplification, but hopefully is clear what is happening under the hood. With this, now how do we get to the scenario outlined in the article at the start? Well, if we are clear that it is just predicting the next most likely word in the sentence, give the prior X number of words it has seen for context, then you can begin to see how, given a seed of an idea and some overarching system prompt that says be a strong, positive cheerleader, then it starts to build out a narrative that reads well but has no grounding in reality.
+This is a super oversimplification, but hopefully is clear what is happening under the hood. How do we get to the scenario outlined in the article at the start? Well, if we are clear that these models are just predicting the next most likely word in the sentence, give the prior X number of words it has seen for context, then you can begin to see how, given a seed of an idea and some overarching system prompt that says be a strong, positive cheerleader, it starts to build out a narrative that reads well but has no grounding in reality.
 
-Its a probablistic system, not a deterministic one. This is a fancy way to say that the outcomes are not guaranteed to be the same given the same input. This alone should help stand you in good stead as you use AI, especially large language models.
+**These are probablistic systems, not a deterministic ones**. This is a fancy way to say that the outcomes are not guaranteed to be the same given the same input. This alone should help stand you in good stead as you use AI, especially large language models.
