@@ -5,7 +5,7 @@ date: '2025-08-19'
 draft: 'false'
 ---
 
-I came across this article the other day, [Chatbots Can Go Into a Delusional Spiral. Here’s How It Happens.](https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html) which details how a 47 year old, corporate recruiter was convinced by ChatGPT that he discovered a novel mathematical formula. Except he hadn't. Over the course of 3 weeks, his interactions with ChatGPT led him down this spiral, only getting out of it when he used a different AI system to see if it made sense. It reminded me of a story I read about one of the first Chatbots, Eliza, from back in the 1960s. This bot was pretty effective, and all it did was reflect back to the user their own words.
+I came across this article the other day, [Chatbots Can Go Into a Delusional Spiral. Here’s How It Happens.](https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html) which details how a 47 year old, corporate recruiter was convinced by ChatGPT that he had discovered a novel mathematical formula. Except he hadn't. Over the course of 3 weeks, his interactions with ChatGPT led him down this spiral, only getting out of it when he used a different AI system to see if it made sense. It reminded me of one of the first Chat Bots, [Eliza](https://www.cprime.com/resources/blog/lessons-and-warnings-from-the-original-chatbot-eliza/#:~:text=In%20the%20fast%2Dpaced%20race,and%20emotions%20onto%20the%20program.), from back in the 1960s. This bot was pretty effective, and all it did was reflect back to the user their own words. Some users began forming emotional attachments and shared personal and private data with it during their interactions.
 
 Reading this, and seeing more and more of these stories popping up, it made me think about the fact that this technology, while powerful, is misunderstood in terms of how it operates, fundamentally. And that misunderstanding is causing some of these challenges.
 
@@ -13,27 +13,31 @@ Specifically, the large language models.
 
 As humans we often anthroporhize things. And we have kinda done that with AI. But AI doesn't really have as many human qualities as we would perhaps like to imagine. At its most basic, these LLMs are simply predicting the next word in a sentence. Take the sentence:
 
-Its sunny and I want to go the ___?
+> Its sunny and I want to go the ___?
 
 Now an AI might say the following
 
-|Beach|90%|
-|Park | 5%|
-|Shops | 3%|
-|Movies | 2%|
+| Option  | Probability |
+|---------|-------------|
+| Beach   | 90%         |
+| Park    | 5%          |
+| Shops   | 3%          |
+| Movies  | 2%          |
 
 But if added some more context, it might say
 
-I love trees. Its sunny and I want to go the ____?
+> I love trees. Its sunny and I want to go the ____?
 
-|Park|95%|
-|Beach | 3%|
-|Shops | 1%|
-|Movies | 1%|
+| Option | Probability |
+|--------|-------------|
+| Park   | 95%         |
+| Beach  | 3%          |
+| Shops  | 1%          |
+| Movies | 1%          |
 
 Its a next word prediction engine, based on all the sentences it has ever seen. You can see this even more when you ask it to say what is next in this sentence:
 
-1 + 1 = _
+> 1 + 1 = _
 
 Now, it doesn't add 1 to 1 to get 2. Essentially, it says everytime I see 1 + 1 = then the next in sequence is 2 90% of the time.
 
