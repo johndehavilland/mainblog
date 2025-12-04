@@ -29,6 +29,6 @@ While the cloud may seem "old and boring", only 30% of Enterprise workflows sit 
 
 Jevon's paradox (where technology advances resulting in making a resource more efficient to use and thus cheaper per application it actually results in an increase in demand for said resource) could be at play here with AI being the resource. Making AI more efficient could increase demand as it could dramatically increase productivity.
 
-{{< figure src="/images/ai-eats-world/ai-plan-themes.png" >}}
+{{< figure src="/images/ai-eats-world/jevons-paradox.png" >}}
 
 I think its a good reminder to call out the fact that back in 1997 there were headlines about the [web being dead](https://zeldman.com/2025/10/25/receipts-a-brief-list-of-prominent-articles-proclaiming-the-death-of-the-web/) and yet here we are.
