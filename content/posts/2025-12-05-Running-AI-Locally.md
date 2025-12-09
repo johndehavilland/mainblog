@@ -2,7 +2,7 @@
 title: Running AI Models Locally Could be Game Changing
 tags: 
 date: '2025-12-05'
-draft: 'true'
+draft: 'false'
 ---
 
 Imagine if you could run a powerful LLM model locally. This would enable you not need to be online all the time to get usefulness. Even more interesting is the idea that it could be more cost-effective - if you have the right hardware already you don't have to pay for a host with premiums. In addition, you will own the data you send and receive from the model. It won't be storing your questions somewhere you don't allow it to, it won't use your data to go train the next model.
