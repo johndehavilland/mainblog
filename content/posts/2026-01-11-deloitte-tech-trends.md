@@ -21,5 +21,5 @@ I was perusing the [Deloitte Tech Trends of 2026](https://www.deloitte.com/us/en
 
 * Ethan Mollick, a professor at the Wharton School of the University of Pennsylvania, frames the organizational challenges as *leadership*, *crowd* and *lab*. I like this simple framing - leadership to drive org changes, crowd - larger number of people using the technology and lab - a place where experiementation on ideas can happen.
 
-* Interestingly, 70% of tech leaders plan to grow their teams in direct response to gen ai which kinda is opposite of the narrative of AI taking jobs.
+* Interestingly, 70% of tech leaders plan to grow their teams in direct response to gen ai which is counter to the narrative of AI taking jobs.
 
