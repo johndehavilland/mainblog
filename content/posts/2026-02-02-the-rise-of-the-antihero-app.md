@@ -5,9 +5,9 @@ date: '2026-02-02'
 draft: 'false'
 ---
 
-{{< x user="theo" id="2012083457091101089" >}}
-
 Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and, perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, a good friend of mine suggested the title for this blog post - and I think its apt. 
+
+{{< x user="theo" id="2012083457091101089" >}}
 
 As AI continues to take the world by storm we are seeing patterns emerge and areas of how AI will fundamentally change things. In the beginning, we kept trying to fit AI into the world we knew. We are perhaps now starting to think of doing different things instead of doing things differently. It reminds me of the stories about the steam engine and how, in the beginning, when the steam engine first showed up, people couldn't help trying to jam it into the world they already knew. Engineers built these early steam-powered road vehicles that looked and acted a lot like the old coaches with big, boxy bodies on wheels, sometimes even with fake horse-like fronts or tiller steering, all while hissing and clanking along. They spooked the living daylights out of actual horses and got slapped with sky-high tolls from turnpike trusts that wanted to protect the horse-and-carriage business.
 
@@ -31,10 +31,10 @@ This is super powerful, because it now really enhances personal productivity and
 
 This new app paradigm has 4 key qualities:
 
-* Ephemeral by design — They spawn via prompt, voice, or context (location, calendar event), handle the job, then dissolve. No icon left behind.
-* Hyper-personalized — Built on your exact needs, mood, or data snapshot—no generic dashboards.
-* Agentic and on-demand — AI agents orchestrate across APIs; the "app" is often just a generated UI or workflow that appears and recedes.
-* Disposable economics — Pay-per-use, micro-transactions, or free (vibe-coded in seconds)—no seats or subscriptions.
+* **Ephemeral by design** - They are created via prompt, voice, or context (location, calendar event, etc), handle the job, then dissolve. Once the need is fulfilled the app dies.
+* **Hyper-personalized** - Built on your exact needs, mood, or data snapshot. The more context they have, the more personalized. They fit exactly what you need, when you need it.
+* **Agentic and on-demand** - AI agents orchestrate across APIs; the "app" is often just a generated UI or workflow that appears and recedes.
+* **Disposable economics** - Pay-per-use, micro-transactions, or free (vibe-coded in seconds) - no need for licenses or subscriptions.
 
 ## Technological Foundations
 
@@ -48,10 +48,10 @@ You may ask, where do AI Agents fit into all this? AI agents are the core engine
 
 ## Not All Heroes Wear Capes
 
-{{< x user="Zeneca" id="2017937470818750919" >}}
+{{< x user="tristanbob" id="1976729048610226419" >}}
 
 Look, I don't think hero apps will go away. They will persist through network effects, trust and the need for regulated/complex use cases. Places where social interaction has critical mass, where long term identity is tied and high-touch experiences are important, hero apps will persist. But they will also evolve. We will see more and more AI integration and, as more AI becomes empowering to the end user around app and agent creation, these hero apps will adjust to enable interactions and connectivity into the hyper personal world of apps and agents you own and build.
 
-In the end, the rise of the anti-hero app isn't about killing the hero, it's about freeing us from the tyranny of the permanent. There is a vision of the world where software no longer clings to our devices like unwanted guests, but arrives precisely when needed, works its magic, and gracefully disappears, leaving only the memory of a task perfectly done. Like a certain wizard perhaps.
+In the end, the rise of the anti-hero app isn't about killing the hero, it's about freeing us from the tyranny of the permanent. There is a vision of the world where software no longer hangs around, clinging like unwanted guests, but arrives precisely when needed, works its magic, and gracefully disappears, leaving only the memory of a task perfectly done. Like a certain wizard perhaps.
 
 {{< figure src="/images/Gandalf_the_Grey.png" caption="Gandalf the Grey" >}}
