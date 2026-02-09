@@ -5,7 +5,7 @@ date: '2026-02-09'
 draft: 'false'
 ---
 
-Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and, perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, a good friend of mine, Mike DeSilver, avid technologist and VP of Customer Success at Microsoft, suggested the title for this blog post and I think its apt. 
+Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, a good friend of mine, Mike DeSilver, avid technologist and VP of Customer Success at Microsoft, suggested the title for this blog post and I think its apt. 
 
 {{< x user="theo" id="2012083457091101089" >}}
 
@@ -21,7 +21,7 @@ The real breakthrough back then didn't come from forcing steam into carriage des
 
 Most apps today can be considered "hero apps" or even "monoliths" in the sense that once they are built, we keep expanding them with features and fixes and they live on pretty much forever. They solve some key problems, they bring value to a broad swath of users etc. Features get added (or changed) often based on enough user demand and the scope of what they are useful for (or proclaim to be useful for) keeps expanding. A couple of examples come to mind: Uber - started as a ride-sharing app, now offers food delivery and also freight matching too. Airbnb - once a simple short-term home rental platform, has now expanded into a travel super app, encompassing experiences, luxury tiers, celebrity homes and even exploring payments and flights.
 
-Persistent,g monolithic platforms, WeChat-style ecosystems and SaaS giants like Salesforce and Uber, have built empires on centralization with long-term data hoarding and always-on interfaces. AI, however, is starting to challenge this status quo and perhaps a new paradigm is emerging - the anti-hero app.
+Persistent, monolithic platforms, WeChat-style ecosystems and SaaS giants like Salesforce and Uber, have built empires on centralization with long-term data hoarding and always-on interfaces. AI, however, is starting to challenge this status quo and perhaps a new paradigm is emerging - the anti-hero app.
 
 ## Disposable by Design
 
