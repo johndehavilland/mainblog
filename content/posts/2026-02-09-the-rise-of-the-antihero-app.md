@@ -5,11 +5,11 @@ date: '2026-02-09'
 draft: 'false'
 ---
 
-Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, a good friend of mine, Mike DeSilver, avid technologist and VP of Customer Success at Microsoft, suggested the title for this blog post and I think its apt. 
+Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, a good friend, Mike DeSilver, avid technologist and VP of Customer Success at Microsoft, suggested the title for this blog post and I think its apt. 
 
 {{< x user="theo" id="2012083457091101089" >}}
 
-In the beginning, we kept trying to fit AI into the world we knew. We are perhaps now starting to think of doing different things instead of doing things differently. It reminds me of the stories about the steam engine and how, when the steam engine first showed up, people couldn't help trying to jam it into the world they already knew. Engineers built these early steam-powered road vehicles that looked and acted a lot like the old coaches with big, boxy bodies on wheels, sometimes even with fake horse-like fronts or tiller steering, all while hissing and clanking along. They spooked the living daylights out of actual horses and got slapped with sky-high tolls from turnpike trusts that wanted to protect the horse-and-carriage business.
+In the beginning, we kept trying to fit AI into the world we knew. We are perhaps now starting to think of doing different things instead of doing things differently. It reminds me of the stories about the steam engine and how, when the steam engine first showed up, people tried to jam it into the world they already knew. Engineers built early steam-powered road vehicles that looked and acted a lot like the old coaches with big, boxy bodies on wheels, sometimes even with fake horse-like fronts or tiller steering, all while hissing and clanking along. They spooked the living daylights out of actual horses and got slapped with sky-high tolls from turnpike trusts that wanted to protect the horse-and-carriage business.
 
 {{< figure src="/images/fake-horse.png" caption="Fake Horse and Carriage" >}}
 
@@ -27,7 +27,7 @@ Persistent, monolithic platforms, WeChat-style ecosystems and SaaS giants like S
 
 {{< x user="addyosmani" id="2012235423519854891" >}}
 
-What if, instead of building apps with a view that they live forever and are always expanding, we build apps that are short-lived, transient and solve a single purpose. AI enables you now to build apps fast - sure they are not perfect or solving thousands of different things BUT if I have a problem today that I could use an app to solve, I could tap into AI to help me build that quickly. It moves apps into a world where everyone can augment themselves with exactly what they need, at the right time they need it and also be ok, once the need is solved, letting the app go away because the time invested to build these apps is now so much shorter.
+AI enables you now to build apps fast. Sure, they are not perfect or solving thousands of different things BUT if I have a problem today that I could use an app to solve, I could tap into AI to help me build that quickly. It moves apps into a world where everyone can augment themselves with exactly what they need, at the right time they need it and also be ok, once the need is solved, letting the app go away because the time invested to build these apps is now so much shorter.
 
 This is super powerful, because it now really enhances personal productivity and ownership in way that hasn't been done before.
 
@@ -52,8 +52,8 @@ You may ask, where do AI Agents fit into all this? AI agents are the core engine
 
 {{< x user="tristanbob" id="1976729048610226419" >}}
 
-Look, I don't think hero apps will go away. They will persist through network effects, trust and the need for regulated/complex use cases. Places where social interaction has critical mass, where long term identity is tied and high-touch experiences are important, hero apps will persist. But they will also evolve. We will see more and more AI integration and, as more AI becomes empowering to the end user around app and agent creation, these hero apps will adjust to enable interactions and connectivity into the hyper personal world of apps and agents you own and build.
+Look, I don't think hero apps will go away. They will persist through network effects, trust and the need for regulated/complex use cases. Places where social interaction has critical mass, where long term identity is tied and high-touch experiences are important, hero apps will persist. But they will also evolve. We will see more and more AI integration and, as AI becomes empowering to the end user around app and agent creation, these hero apps will adjust to enable interactions and connectivity into the hyper personal world of apps and agents you own and build.
 
-In the end, the rise of the anti-hero app isn't about killing the hero, it's about freeing us from the tyranny of the permanent. There is a vision of the world where software no longer hangs around, clinging like unwanted guests, but arrives precisely when needed, works its magic, and gracefully disappears, leaving only the memory of a task perfectly done. Like a certain wizard perhaps.
+There is a vision of the world where software no longer hangs around, clinging like unwanted guests, but arrives precisely when needed, works its magic, and gracefully disappears, leaving only the memory of a task perfectly done. Like a certain wizard perhaps.
 
 {{< figure src="/images/Gandalf_the_Grey.png" caption="Gandalf the Grey" >}}
