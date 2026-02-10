@@ -5,7 +5,7 @@ date: '2026-02-09'
 draft: 'false'
 ---
 
-Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, a good friend, Mike DeSilver, avid technologist and VP of Customer Success at Microsoft, suggested the title for this blog post and I think its apt. 
+Hero Apps are evolving. Those apps that time, effort and more effort have been poured into over months and years are facing a challenge driven by the relentless march of progress currently spurred by AI advances. The headlines proclaim SaaS is dead, and perhaps, there is a grain of truth underpinning the hyperbole. Over dinner, Mike DeSilver, a good friend, avid technologist and VP of Customer Success at Microsoft, suggested the title for this blog post and I think its apt. 
 
 {{< x user="theo" id="2012083457091101089" >}}
 
