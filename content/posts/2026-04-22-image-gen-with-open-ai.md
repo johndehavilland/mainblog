@@ -34,4 +34,4 @@ GPT-Image-2 does a great job of creating sankey diagrams. I have often seen thos
 ## Just for fun
 It can even generate comic strips for you in the style of your choosing. Here I took a fun interaction I had with my daughter and turned it into a memory I could frame - kid's sometimes say the best things.
 
-{{< figure src="/images/fun-comic.png" caption="Prompt: I want to create a 3 pane comic panel in the style of calvin & hobbes based on a fun story between my and my daughter. We were walking in a quaint town and she said "Hey Dad", "Did you know that Jesus died playing lacrosse"..."a boy in my class told me that"" >}}
+{{< figure src="/images/fun-comic.png" caption="Prompt: I want to create a 3 pane comic panel in the style of calvin & hobbes based on a fun story between my and my daughter. We were walking in a quaint town and she said Hey Dad, Did you know that Jesus died playing lacrosse...a boy in my class told me that" >}}
