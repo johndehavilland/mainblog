@@ -2,7 +2,7 @@
 title: Image Gen with OpenAI GPT-Image-2
 tags: 
 date: '2026-04-22'
-draft: 'true'
+draft: 'false'
 ---
 
 OpenAI released [GPT-Image-2](https://openai.com/index/introducing-chatgpt-images-2-0/) yesterday and it is impressive. Really impressive and it now supports 4k which is awesome. The state of image generation in general has been getting better and better and I now use models to do some cool things on a regular basis. Here are some examples that are super powerful - all generated with GPT-Image-2:
