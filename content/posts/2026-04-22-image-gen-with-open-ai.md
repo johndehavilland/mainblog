@@ -26,6 +26,11 @@ GPT-Image-2 does great at creating professional headshots too with a few sample 
 
 {{< figure src="/images/headshot.png" caption="Prompt: Generate a professional headshot from this starting image with a professional background" >}}
 
+## Sankey Generation
+GPT-Image-2 does a great job of creating sankey diagrams. I have often seen those around company financial statements and they have been a great visual to breakdown a company's income. I tried it with a simple prompt and pointed to raw sample dataset. It did a great job at least directionally. (though I have not validated all the numbers here, so it might need some refinement/correction).
+
+{{< figure src="/images/sankey-.png" caption="Prompt: create a sankey diagram from this dataset: https://raw.githubusercontent.com/micahstubbs/sankey-datasets/refs/heads/master/oakland-budget/graph.json" >}}
+
 ## Just for fun
 It can even generate comic strips for you in the style of your choosing. Here I took a fun interaction I had with my daughter and turned it into a memory I could frame - kid's sometimes say the best things.
 
