@@ -7,13 +7,13 @@ draft: 'false'
 
 OpenAI released [GPT-Image-2](https://openai.com/index/introducing-chatgpt-images-2-0/) yesterday and it is impressive. Really impressive and it now supports 4k which is awesome. The state of image generation in general has been getting better and better and I now use models to do some cool things on a regular basis. Here are some examples that are super powerful - all generated with GPT-Image-2:
 
-## Beautiful Art
-{{< figure src="/images/car-on-highway.png" caption="Creating AI generated Art" >}}
+## Personalized Art
+I love using AI to create art for the right thing at the right time. Its cool because I can create things I like and tailor them endlessly. It also allows me to be creative to spur other creative ideas.
 
-I love using AI to create art for the right thing at the right time. Its mind blowing. Prompt: Set in dusk, with a setting sun, there is a road that disappears over the horizon with a single car heading towards the viewer. The sides of the road are overgrown and feel abandoned and littered with some futuristic elements. There is a sign that says "New York City, 300 miles" and it is worn.
+{{< figure src="/images/car-on-highway.png" caption="Prompt: Set in dusk, with a setting sun, there is a road that disappears over the horizon with a single car heading towards the viewer. The sides of the road are overgrown and feel abandoned and littered with some futuristic elements. There is a sign that says New York City, 300 miles and it is worn." >}}
 
 ## Infographics
-I really love gpt-image-2's ability to create infographics. Text is clear, crisp and even with simple prompts you can turn a topic into a nice visual representation. This will be hugely beneficial for improved learning and accelerated understanding. Here is one I generated that helps explain the quantum superposition. This is insanely useful.
+Gpt-image-2's ability to create infographics is awesome. Text is clear, crisp and even with simple prompts you can turn a topic into a nice visual representation. This will be hugely beneficial for improved learning and accelerated understanding. Here is one I generated that helps explain the quantum superposition. This is insanely useful.
 
 {{< figure src="/images/quantum-info.png" caption="Prompt: I want an infographic that explains what quantum superposition means and why it is important" >}}
 
