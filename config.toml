@@ -11,5 +11,5 @@ googleAnalytics = "G-SC1FD2HQ9G"
 
 [params]
   homeInfoMode = "auto"
-  defaultTheme = "auto"
+  defaultTheme = "dark"
   ShowReadingTime = true
