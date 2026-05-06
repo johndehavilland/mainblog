@@ -10,20 +10,20 @@ productivity signals and 20,000 surveyed workers using AI across 10 countries. H
 
 * Fundamentally, organizations need to (and is some cases already are) change how they do work. AI is enabling efficiencies at scale that requires a paradigm shift here. "The real question isn’t whether people have the right skills. It’s whether the organization is built to unlock them"
 
-* "New agency equation: as agents take on more of the execution, humans increasingly have more agency". Agency being defined as more empowered over outcome, ability to define and direct work.
+* "New agency equation: as agents take on more of the execution, humans increasingly have more agency". Agency being defined as people being more empowered over outcome, ability to define and direct work.
 
-* Interestingly, the data shows that more often than not people are ready for AI BUT organizations are not. Organization factors can be limiting here (think cultural, processes, manager support etc.)
+* Interestingly, the data shows that more often than not people are ready for AI **but** organizations are not. Organization factors can be limiting here (think cultural, processes, manager support etc.)
 
-* There is a realization that AI can't replace judgement - which is a point I made in my When AI Goes Rogue blog post.
+* There is a realization that AI can't replace judgement - which is a point I made in my [When AI Goes Rogue](https://www.johndehavilland.com/posts/2026-04-27-when-ai-goes-rogue/) blog post.
 
-* 58% of respondents said they were able to produce work that they couldn't have a year ago - which is a testament to the power AI brings.
+* 58% of respondents said they were able to produce work that they couldn't have a year ago which is a testament to the power AI brings to enabling people to further, faster.
 
-* 43% of the most advanced AI users also say they do intentionally do some non-AI work to ensure their skills don't atrophy.
+* 43% of the most advanced AI users also say they intentionally do some non-AI work to ensure their skills don't atrophy and they don't lose foundational understanding.
 
-* It is important that Leaders lead here to drive the change required and redesign the system to match the work.
+* In order for this to fundamentally work broadly it is vitally important that Org Leaders drive the change required and redesign the system to match the work. This is most effective when they model AI use themselves and enable safe spaces for employees to explore AI in the context of work.
 
-* "Transformation Paradox: Employees are ready to reinvent how they work, but the system around them—metrics, incentives, and norms - continues to reinforce the old way. The same forces accelerating AI adoption are holding it back"
+* **Transformation Paradox**: Employees are ready to reinvent how they work, but the system around them—metrics, incentives, and norms - continues to reinforce the old way. The same forces accelerating AI adoption are holding it back - strong quote from the report.
 
-* Industry-wise, it is no surprise that software and tech shows strong breadth and depth of AI adoption, but was a little surprised that gaming had none.
+* Industry-wise, it is no surprise that software and tech shows strong breadth and depth of AI adoption, but I was a little surprised that gaming had little to none.
 
-* It will be important to hold humans accountable for work AI does. There is risk when the scale is big and the speed is fast.
+* It will be important to hold humans accountable for work AI does. There is risk when the scale is big and the speed is fast because a small error compounds rapidly.
