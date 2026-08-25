@@ -13,7 +13,7 @@ I think this is fascinating and a huge potential opportunity for enterprises sit
 
 Organizations that possess unique proprietary data and deep domain expertise now have a viable path to creating highly differentiated models tailored to their industry. In many cases, these models may prove more valuable for specialized use cases than general-purpose frontier models because they are optimized around knowledge and context that broader models were never designed to capture.
 
-The Thomson Reuters team published a [detailed technical report](https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/thomson-technical-report.pdf) on the work they did. Starting from a strong, open-weight foundation (Qwen3.6-35B), they focused on building a economically impactful model with a focus on professional work across legal, tax and journalism domains and initial benchmark results show strong results, putting this model (for this domain) squarely in competition with models from the leading frontier companies.
+The Thomson Reuters team published a [detailed technical report](https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/thomson-technical-report.pdf) on the work they did. Starting from a strong, open-weight foundation (Qwen3.6-35B), they focused on building an economically impactful model with a focus on professional work across legal, tax and journalism domains and initial benchmark results show strong results, putting this model (for this domain) squarely in competition with models from the leading frontier companies.
 
 {{< figure src="/images/per-category.jpeg" caption="Per Category score improvements" >}}
 
