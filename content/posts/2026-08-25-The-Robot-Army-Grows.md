@@ -30,5 +30,3 @@ Here are some cool videos from the games, worth a watch:
   <source src="/videos/robot-freekick.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-Video of high jump -https://www.youtube.com/watch?v=aoqG2wlzRAM
