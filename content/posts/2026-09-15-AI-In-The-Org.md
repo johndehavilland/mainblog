@@ -7,13 +7,15 @@ draft: 'false'
 
 Did you know that the first ever org chart was created in the mid-1800s for the Erie Railroad company? In the midst of the Industrial Revolution, new organizations were being formed and growing and a new way of managing this, especially at scale was needed. The railroad was at the center of expansion, and without an org chart, as its size and breadth of operations expanded, the disorganization became a serious impediment. So Brigadier General Daniel McCallum, an Erie Railroad company executive, devised the first one.
 
+{{< figure src="/images/original-org-chart.jpg" caption="Original org chart" >}}
+
 We are in the midst of another seismic shift, this time spurred by AI, and it is precisely this that is causing us to relook at the org chart. Does what served us reasonably well for the past 170 years hold up now? A part of that is how does AI show up in the org chart (and what does that even mean)?
 
-First, let's think about what AI disrupts. As its reach and impact across organizations because ever more ubiquitous, the edges are blurring around decision making, accountability and we are seeing the rise of shadow authority to some degree, where AI is starting to shape decisions but accountability and decision-making authority haven't been explicitly granted to AI. All this happening at machine speed.
+As AI becomes more ubiquitous across organizations, the edges around decision-making and accountability are beginning to blur. AI systems are starting to shape decisions but haven't been explicitly granted decision-making authority and often there is a lack of clear accountability. AI is operating in the shadows here and all this happening at machine speed.
 
-This creates several risks because the system of checks and balances is getting usurped here. A prompt written for an agent, whose output then influences materially a decision doesn't really go through the same reviews today but sort of becomes the operating policy. The scale of the systems here is also problematic, one flawed output can scale rapidly given the speed and breadth that AI operates. And if things go wrong, there is a very blurry line on who (or what) is accountable. 
+This creates risks because the system of checks and balances is getting usurped. A prompt written for an agent, whose output then materially influences a decision sort of becomes the new operating policy but it has never been reviewed in the same way other operating policies are reviewed. The scale of the systems here is also problematic. One flawed output can scale rapidly given the speed and breadth that AI operates and if things go wrong, there is a very blurry line on who (or what) is accountable. 
 
-To start to put some structure around this, first, it is critical to think through defining the role(s) of AI in the org chart. You could ostensibly start with these 5:
+To start to put some structure around this, it is critical to think through defining the role(s) of AI in the org chart and then represent them accordingly. After all, the org chart is a good way to see authority and accountability lines. One useful starting point is to define five roles:
 
 | Role | Function | Human control |
 | --- | --- | --- |
@@ -25,20 +27,22 @@ To start to put some structure around this, first, it is critical to think throu
 
 The progression is essentially an authority ladder: observe → recommend → execute → decide → coordinate. 
 
+{{< figure src="/images/ai_auth_ladder.png" caption="AI Authority Ladder" >}}
+
 Conway’s Law holds that organizations design systems that mirror their internal communication structures. Adding AI into the mix will eventually change both the organization and what it produces. Leaders need to architect human–AI communication deliberately: defining who receives an AI recommendation, who may act on it, how decisions are challenged, and where accountability ultimately resides.
 
 In this blended human–AI world, leaders must redesign how work gets done, evolving from directing people to orchestrating effective collaboration between people and AI.
 
-In my role as an org leader, I have a small team of agents supporting me day to day. I think it is important to be open about how we are using AI, not just to talk about its potential, but to show where it is delivering real value.
+In my role as an org leader, I have a small team of agents supporting me on a day to day basis. I think it is important to be open about how we are using AI, not just to talk about its potential, but to show where it is delivering real value.
 
-A few principles guide how I work:
+A few principles guide how I put AI to work:
 
 1. I remain accountable. If something is sent in my name, I review and edit it first.
 2. Numbers need to be reliable. For things like sales pipeline data, I have agents use code or defined queries rather than asking the model to work it out.
 3. Efficiency matters. I reuse queries and run work in batches to reduce cost and unnecessary back-and-forth.
 4. Small steps add up. None of these agents is revolutionary, but together they make a meaningful difference.
 
-I deliberately give these agents functional names rather than human ones. Their names describe what they do and help make their scope clear. I want them to feel like visible parts of my operating system more than artificial colleagues with implied judgment, authority, or accountability they do not actually have.
+I deliberately give these agents functional names rather than human ones. Their names describe what they do and help make their scope clear. I want them to feel like visible parts organization rather than artificial colleagues with implied judgment, authority, or accountability they do not actually have.
 
 | Agent | Role | What it does |
 | --- | --- | --- |
@@ -49,6 +53,8 @@ I deliberately give these agents functional names rather than human ones. Their 
 | Praise Drafting Assistant | Operator | Finds emails recognizing great work and prepares draft responses for me to review, edit, and send. |
 | Win the Week Editor | Advisor | Pulls together KPI data, daily notes, email, and Teams context to draft my weekly update. I spend about 30 minutes reviewing and editing it before sending. |
 
+{{< figure src="/images/ai-org-chart-evol.png" caption="Evolving org chart" >}}
+
 None of this is groundbreaking, but it works. These agents save me several hours each week, help my teams stay on top of the right things, and give us better clarity across the business. I built them using a mix of Microsoft Cowork, Scout and the GitHub Copilot SDK, and I will continue adding to the group as useful scenarios come up.
 
-I do not use AI everywhere though. For example I don't use AI to manage my entire calendar or inbox extensively. Both depend heavily on personal context, and my current approach works for me. The goal is not to use AI everywhere but to use it where it genuinely helps and to make its role, authority, and human accountability as clear as any reporting line on the org chart.
+I do not use AI everywhere, though. For example, I do not use AI to manage my entire calendar or inbox extensively. Both depend heavily on personal context, and my current approach works for me. The goal is not to use AI everywhere, but to use it where it genuinely helps and to make its role, authority, and human accountability as clear as any reporting line on the org chart.
